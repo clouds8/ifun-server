@@ -1,0 +1,15 @@
+{
+  "name": "ifun-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.3.0",
+    "koa": "^2.5.1",
+    "koa-body": "^4.0.3",
+    "koa-jwt": "^3.3.2",
+    "koa-router": "^7.4.0",
+    "mongodb": "^3.0.10"
+  }
+}

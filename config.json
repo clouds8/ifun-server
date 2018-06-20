@@ -1,0 +1,10 @@
+{
+    "mongo": {
+        "hosts": ["127.0.0.1:27017"],
+        "database": "ifun"
+    },
+    "port": 3000,
+    "jwt": {
+        "secret": "YesIamJWTSecret!"
+    }
+}
